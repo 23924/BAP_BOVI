@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+#wrapper{
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    background-color: green;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
